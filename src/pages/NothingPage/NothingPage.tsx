@@ -12,7 +12,7 @@ const NothingPage = () => {
                     <h1>장바구니가 비어있습니다.</h1>
                 </div>
                 <div>
-                    <h3>응애 나 배고파...</h3>
+                    <h3>상품을 추가해주세요</h3>
                 </div>
                 <Link className={styles.gohome} to="/">
                     <h2>쇼핑 계속하러 가기</h2>
